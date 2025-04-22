@@ -27,7 +27,7 @@ To try the spreadsheet application:
 
 Or view it live here:
 
-🔗 [Live Demo](https://abdallahbenj.github.io/Functional-programming-spreadsheet/)
+
 🔗 <a href="https://abdallahbenj.github.io/Functional-programming-spreadsheet/" target="_blank">Live Demo</a>
 
 
